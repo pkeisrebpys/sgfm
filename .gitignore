@@ -1,0 +1,8 @@
+bin/
+data/
+etc/
+lib/
+*.o
+test/*
+!test/*.cpp
+!test/Makefile
