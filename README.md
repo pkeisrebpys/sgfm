@@ -1,6 +1,6 @@
-# SGFM - Standard Grid Frequency Model.
+# SGFM - Smart Grid Frequency Simulation Model.
 
-SGFM provides grid frequency simulation model.
+SGFM provides smart grid frequency simulation model.
 
 	Copyright (C) 2017  Ken-ichi Kondo.
 
